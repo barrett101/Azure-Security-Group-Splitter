@@ -6,4 +6,4 @@ It will prompt for the following.
 - It will prompt you how many times you want to split the group.
 - It will prompt you as it goes for the group names
 
-See C:\temp\GroupSplitter.log for detailed logs, you can adjust in script if needed.
+See C:\temp\GroupSplitter.log for detailed logs.
